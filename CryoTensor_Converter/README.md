@@ -13,4 +13,7 @@ Once installation is confirmed completed, you can run the conversion script. If 
 a path error, make sure you've set your environment path properly.
 Here is a guide if you get stuck: https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables
 
+###Note
+Some files that may have been hastely merged or contain unexpected code/conflict, will refuse to convert.
+
 ###Thank you to Devalidating of the Stable Diffusion Discord for helping me out
