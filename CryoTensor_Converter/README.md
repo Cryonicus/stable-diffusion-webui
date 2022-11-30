@@ -7,7 +7,7 @@ Your old file <filename.ckpt> will remain where it is, unchanged.
 
 ### BEFORE YOU RUN THIS SCRIPT
 
-Start a command box and type "pip install safetensors" or click on "install_safetensor.bat"
+Start a command box and type "pip install safetensors"
 
 Once installation is confirmed completed, you can run the conversion script. If you get
 a path error, make sure you've set your environment path properly.
